@@ -1,1 +1,96 @@
-UU
+#EXTM3U
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="A&E.cl" tvg-name="CINE: A&E [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AE.png" group-title="CINE",CINE: A&E [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83578
+#EXTINF:-1 tvg-id="A&E.cl" tvg-name="CINE: A&E [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AE.png" group-title="CINE",CINE: A&E [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/23
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE: AMC [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AMC.png" group-title="CINE",CINE: AMC [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/24
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE: AXN [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE",CINE: AXN [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83587
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE: AXN [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE",CINE: AXN [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6222
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE: AXN [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE",CINE: AXN [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83587
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINE: CINECANAL [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINECANAL.png" group-title="CINE",CINE: CINECANAL [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83594
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINE: CINECANAL [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINECANAL.png" group-title="CINE",CINE: CINECANAL [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/27
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-name="CINE: CINELATINO [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINELATINO.jpeg" group-title="CINE",CINE: CINELATINO [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/170419
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-name="CINE: CINELATINO [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINELATINO.jpeg" group-title="CINE",CINE: CINELATINO [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/170418
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINE: CINEMAX [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINEMAX.png" group-title="CINE",CINE: CINEMAX [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6224
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINE: CINEMAX [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINEMAX.png" group-title="CINE",CINE: CINEMAX [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/28
+#EXTINF:-1 tvg-id="DePelícula.mx" tvg-name="CINE: DE PELICULA [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/DEPELICULAS.png" group-title="CINE",CINE: DE PELICULA [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/94
+#EXTINF:-1 tvg-id="DHE.cl" tvg-name="CINE: DHE [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/DHE.jpg" group-title="CINE",CINE: DHE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109160
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="CINE: FX [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/FX.png" group-title="CINE",CINE: FX [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109164
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="CINE: FX [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/FX.png" group-title="CINE",CINE: FX [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/54
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="CINE: HBO 2 [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO2.png" group-title="CINE",CINE: HBO 2 [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6236
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="CINE: HBO FAMILY [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOFAMILY.png" group-title="CINE",CINE: HBO FAMILY [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/63
+#EXTINF:-1 tvg-id="HBOMundi.ar" tvg-name="CINE: HBO MUNDI [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOMUNDI.png" group-title="CINE",CINE: HBO MUNDI [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109169
+#EXTINF:-1 tvg-id="HBOPlus(Panamericano).ar" tvg-name="CINE: HBO PLUS [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="CINE",CINE: HBO PLUS [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/64
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="CINE: HBO POP [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png" group-title="CINE",CINE: HBO POP [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/72
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="CINE: HBO SIGNATURE [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOSIGNATURE.png" group-title="CINE",CINE: HBO SIGNATURE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83692
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="CINE: HBO XTREME [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOXTREME.png" group-title="CINE",CINE: HBO XTREME [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/170423
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="CINE: HBO XTREME [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOXTREME.png" group-title="CINE",CINE: HBO XTREME [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83694
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="CINE: HBO [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="CINE",CINE: HBO [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/61
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="CINE: HBO [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="CINE",CINE: HBO [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6234
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="CINE: PARAMOUNT NETWORK [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/PARAMOUNTNETWORK.png" group-title="CINE",CINE: PARAMOUNT NETWORK [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/76
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="CINE: PARAMOUNT NETWORK [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/PARAMOUNTNETWORK.png" group-title="CINE",CINE: PARAMOUNT NETWORK [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6242
+#EXTINF:-1 tvg-id="SonyMovieChannel.ec" tvg-name="CINE: SONY MOVIES [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",CINE: SONY MOVIES [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/677175
+#EXTINF:-1 tvg-id="SonyMovieChannel.ec" tvg-name="CINE: SONY MOVIES [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",CINE: SONY MOVIES [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/677176
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="CINE: SONY [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SONY.png" group-title="CINE",CINE: SONY [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/78
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="CINE: SONY [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SONY.png" group-title="CINE",CINE: SONY [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6243
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="CINE: SPACE [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png" group-title="CINE",CINE: SPACE [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/79
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="CINE: SPACE [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png" group-title="CINE",CINE: SPACE [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6245
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="CINE: STAR CHANNEL [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STARCHANNEL.png" group-title="CINE",CINE: STAR CHANNEL [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/45
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="CINE: STAR CHANNEL [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STARCHANNEL.png" group-title="CINE",CINE: STAR CHANNEL [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6225
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="CINE: STUDIO UNIVERSAL [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STUDIOUNIVERSAL.jpg" group-title="CINE",CINE: STUDIO UNIVERSAL [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83748
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="CINE: TCM [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TCM.png" group-title="CINE",CINE: TCM [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109180
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="CINE: TNT SERIES [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TNTSERIES.png" group-title="CINE",CINE: TNT SERIES [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6248
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="CINE: TNT [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TNT.png" group-title="CINE",CINE: TNT [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/88
+#EXTINF:-1 tvg-id="UniversalCinema.ar" tvg-name="CINE: UNIVERSAL CINEMA [FHD]" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CINE",CINE: UNIVERSAL CINEMA [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/48
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="CINE: UNIVERSAL COMEDY [FHD]" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="CINE",CINE: UNIVERSAL COMEDY [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83639
+#EXTINF:-1 tvg-id="UniversalCrimeEste.ar" tvg-name="CINE: UNIVERSAL CRIME [FHD]" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CINE",CINE: UNIVERSAL CRIME [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109174
+#EXTINF:-1 tvg-id="UniversalPremiereEste.ar" tvg-name="CINE: UNIVERSAL PREMIERE [FHD]" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE",CINE: UNIVERSAL PREMIERE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/83658
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="CINE: UNIVERSAL TV [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/UNIVERSALTV.png" group-title="CINE",CINE: UNIVERSAL TV [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/109176
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="CINE: WARNER CHANNEL [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="CINE",CINE: WARNER CHANNEL [SD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6249
+
