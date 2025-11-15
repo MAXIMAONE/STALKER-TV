@@ -6,8 +6,9 @@ http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6220
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/623999
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE: AMC [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AMC.png" group-title="CINE",CINE: AMC [HD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/24
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="MX: AMC [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AMC.png" group-title="MX CINE",MX: AMC [FHD]
-http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/624000#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE: AXN [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE",CINE: AXN [HD]
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="MX: AMC [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AMC.png" 
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/624000
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE: AXN [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE",CINE: AXN [HD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6222
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="MX: AXN [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="MX CINE",MX: AXN [SD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679081
@@ -156,7 +157,8 @@ http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679696
 #EXTINF:-1 tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name="CULT: DISCOVERY FAMILIA [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYFAMILIA.png" group-title="CULTURALES",CULT: DISCOVERY FAMILIA [FHD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/26325
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="MX: DISCOVERY KIDS [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISCOVERYKIDS.png" group-title="MX INFANTIL",MX: DISCOVERY KIDS [SD]
-http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679711#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="MX: DISCOVERY SCIENCE [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="MX CULTURALES",MX: DISCOVERY SCIENCE [FHD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679711
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="MX: DISCOVERY SCIENCE [FHD]" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" 
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/624107
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="MX: DISCOVERY TURBO [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYTURBO.png" group-title="MX CULTURALES",MX: DISCOVERY TURBO [FHD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/624108
@@ -168,8 +170,9 @@ http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679703
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/118869
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MX: DISCOVERY [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="MX CULTURALES",MX: DISCOVERY [SD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679697
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="CULT: DISCOVERY SCIENCE [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="CULTURALES",CULT: DISCOVERY SCIENCE [SD]
-http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6274#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="MX: DISCOVERY SCIENCE [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYSCIENCE.png" group-title="MX CULTURALES",MX: DISCOVERY SCIENCE [SD]
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="CULT: DISCOVERY SCIENCE [SD]" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" 
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/6274
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="MX: DISCOVERY SCIENCE [SD]" tvg-logo="https://i.ytimg.com/vi/XW9c443L1vk/maxresdefault.jpg" 
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679700
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MX: DISCOVERY ID [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYID.jpg" group-title="MX CULTURALES",MX: DISCOVERY ID [SD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679699
@@ -276,7 +279,8 @@ http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/678059
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="MX: COMEDY CENTRAL [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="MX ENTRETENIMIENTO",MX: COMEDY CENTRAL [FHD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/118865
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="MX: COMEDY CENTRAL [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="MX ENTRETENIMIENTO",MX: COMEDY CENTRAL [SD]
-http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679562#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="ENTRET: COMEDY CENTRAL [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="ENTRETENIMIENTO",ENTRET: COMEDY CENTRAL [HD]
+http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/679562
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="ENTRET: COMEDY CENTRAL [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="ENTRETENIMIENTO",ENTRET: COMEDY CENTRAL [HD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/676935
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/DISTRITOCOMEDIA.jpg" group-title="ENTRETENIMIENTO",ENTRET: DISTRITO COMEDIA [HD]
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/677158
@@ -404,4 +408,4 @@ http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/678912
 http://smarterplayerstalkerlg.it.com:8080/yvuwrubc/84Wfb1Uo1z/124833
 
 
-15/11
+15/11//
