@@ -1,4 +1,3 @@
-#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="A&E.cl" tvg-name="CINE: A&E [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AE.png" group-title="CINE",CINE: A&E [HD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/23
@@ -86,7 +85,7 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/170424
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/170425
 #EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="CINE: PARAMOUNT NETWORK [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/PARAMOUNTNETWORK.png" group-title="CINE",CINE: PARAMOUNT NETWORK [SD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/26356
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="MX: PARAMOUNT NETWORK [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/PARAMOUNTNETWORK.png" group-title="MX CINE",MX: PARAMOUNT NETWORK [SD]
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="MX:SONY MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="MX CINE",MX: PARAMOUNT NETWORK [SD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679434
 #EXTINF:-1 tvg-id="Sony.mx" tvg-name="MX: SONY [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SONY.png" group-title="MX CINE",MX: SONY [FHD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/118841
@@ -276,9 +275,11 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678059
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676935
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="ENTRET: COMEDY CENTRAL [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="ENTRETENIMIENTO",ENTRET: COMEDY CENTRAL [SD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676956
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/DISTRITOCOMEDIA.jpg" group-title="ENTRETENIMIENTO",ENTRET: DISTRITO COMEDIA [HD]
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/1000?cb=20230211015512&path-prefix=es" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677158
-#EXTINF:-1 tvg-id="E!.mx" tvg-name="ENTRET: E! ENTERTAINMENT [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/EENTERTAINMENT.png" group-title="ENTRETENIMIENTO",ENTRET: E! ENTERTAINMENT [HD]
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [SD]" tvg-logo="https://logos.fandom.com/es/wiki/Distrito_Comedia" 
+http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677159
+#EXTINF:-1 tvg-id="E!.mx" tvg-name="ENTRET: E! ENTERTAINMENT [HD]" tvg-logo="https://www.eluniversal.com.mx/resizer/v2/PN2HZ5OQ5ZEA5AKJPC3SVZOEQU.jpg?auth=e37958cc59738a0c58bda33185444bc34bdca94e5862096fb9710d516225d564&smart=true&height=666" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677145
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="ENTRET: EL GOURMET [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/ELGOURMET.png" group-title="ENTRETENIMIENTO",ENTRET: EL GOURMET [SD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676957
@@ -409,5 +410,4 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/86726
 #EXTINF:-1 tvg-id="NFLChannel.peacocktv" tvg-name="US: NFL NETWORK" tvg-logo="https://cdn.logojoy.com/wp-content/uploads/20210709120855/nfl-logo.png"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/26402
 
-
-12/2026
+OK
